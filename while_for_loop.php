@@ -26,7 +26,7 @@
 			echo "<table>\n";
 			echo "<tr>\n";
 			//for($i = 0; $i < 12; $i++) {
-				//echo "<th>" . $SignNames[$i] . "<br /><img src='images/" . $SignNames[$i] . ".jpg' alt='" . $SignNames[$i] . "' title='" . $SignNames[$i] . "' /></th>\n";
+				//echo "<th>" . $SignNames[$i] . "<br /><img src='images/" . $SignNames[$i] . ".gif' alt='" . $SignNames[$i] . "' title='" . $SignNames[$i] . "' /></th>\n";
 			//}   this is the FOR loop commented out
 
 			$i = 0;
