@@ -1,0 +1,47 @@
+/*body{
+	width: 300px;
+	height:500px;
+	border: 2px solid black;
+
+}*/
+#wrapper {
+	border: 2px  solid red;
+	width:960px;
+	height: 1100px; 
+	margin:0 auto;
+}
+
+#header{
+	Width: 392px;
+	Height: 72px;
+	border: 2px solid purple;
+}
+
+#button{
+	width: 960px;
+	height: 75px;
+	border: 2px solid black;
+}
+
+
+#navtext {
+	border: 2px solid orange;
+	float:left; 
+	width:275px;
+	height: 400px;
+}
+
+#content {
+	border: 2px solid green;
+	float:left; 
+	width: 675px;
+	height: 880px;
+}
+
+
+#footer {
+	border: 2px solid yellow;
+	width: 960px;
+	height: 50px;
+	clear: both;
+}
