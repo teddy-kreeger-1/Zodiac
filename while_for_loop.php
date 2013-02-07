@@ -15,9 +15,8 @@
 			"Rabbit",
 			"Dragon",
 			"Snake",
-			"Snake",
 			"Horse",
-			"Goat",
+			"Sheep",
 			"Monkey",
 			"Rooster",
 			"Dog",
@@ -28,16 +27,16 @@
 			echo "<tr>\n";
 			//for($i = 0; $i < 12; $i++) {
 				//echo "<th>" . $SignNames[$i] . "<br /><img src='images/" . $SignNames[$i] . ".jpg' alt='" . $SignNames[$i] . "' title='" . $SignNames[$i] . "' /></th>\n";
-			//}
+			//}   this is the FOR loop commented out
 
 			$i = 0;
 			while($i < 12){
-				echo "<th>" . $SignNames[$i] . "<br /><img src='images/" . $SignNames[$i] . ".jpg' alt='" . $SignNames[$i] . "' title='" . $SignNames[$i] . "' /></th>\n";
+				echo "<th>" . $SignNames[$i] . "<br /><img src='images/" . $SignNames[$i] . ".gif' alt='" . $SignNames[$i] . "' title='" . $SignNames[$i] . "' /></th>\n";
 			$i++;
 			}
 
 			//for ($i = 1912; $i <= 2013; $i++){
-				//if(($i - 1912) % 12 === 0){
+				//if(($i - 1912) % 12 === 0){ //FOR loop commented out
 
 			$i = 1912;
 
